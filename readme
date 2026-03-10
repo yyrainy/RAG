@@ -1,0 +1,14 @@
+如果让模型输出结果带
+【参考信息3】
+内容：xxxxxxxxxxxxx
+来源：xxxxxxxxxxxxx
+修改prompt即可让它输出content
+
+config：全局定义
+llm：模型调用
+index:gradio前端显示
+tools：工具函数
+
+
+
+
